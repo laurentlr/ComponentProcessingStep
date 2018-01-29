@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dagger-modules.iml" filepath="$PROJECT_DIR$/.idea/dagger-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dagger-modules.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleb/dagger-modules.moduleCore.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleb/dagger-modules.moduleCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleCore/dagger-modules.moduleCore.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulea/dagger-modules.moduleFeatureA.iml" filepath="$PROJECT_DIR$/.idea/modules/modulea/dagger-modules.moduleFeatureA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureA/dagger-modules.moduleFeatureA.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleFeatureB/dagger-modules.moduleFeatureB.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.main.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/moduleNetwork/dagger-modules.moduleNetwork.unitTest.iml" />
+    </modules>
+  </component>
+</project>
