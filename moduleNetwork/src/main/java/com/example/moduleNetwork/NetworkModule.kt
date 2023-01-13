@@ -4,7 +4,7 @@ import dagger.Binds
 import dagger.Module
 
 @Module
-interface NetworkModule {
+abstract class NetworkModule {
     @Binds
-    fun bindNetwork(impl: NetworkFooImpl): NetworkFoo
+    internal abstract fun bindNetwork(impl: NetworkFooImpl): NetworkFoo
 }

@@ -6,5 +6,5 @@ import dagger.Module
 @Module
 abstract class CoreModule {
     @Binds
-    abstract fun bindCoreFoo(impl: CoreFooImpl): CoreFoo
+    internal abstract fun bindCoreFoo(impl: CoreFooImpl): CoreFoo
 }

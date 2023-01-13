@@ -10,10 +10,10 @@ import dagger.Component
         NetworkModule::class
     ]
 )
-interface CoreComponent {
+abstract class CoreComponent {
 
-    val coreFoo: CoreFoo
+    internal abstract val coreFoo: CoreFoo
 
-    val networkFoo: NetworkFoo
+    internal abstract val networkFoo: NetworkFoo
 
 }

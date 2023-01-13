@@ -7,7 +7,7 @@ import dagger.Component
     dependencies = [CoreComponent::class],
     modules = [FeatureAModule::class]
 )
-interface FeatureAComponent {
+abstract class FeatureAComponent {
 
-    val featureAFoo: FeatureAFoo
+    internal abstract val featureAFoo: FeatureAFoo
 }
